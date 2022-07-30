@@ -1,4 +1,4 @@
-### Hi there I'm Bhanu
+### Hi there
 
 - 🔭 I’m currently working on React...
 - 🌱 I’m currently learning Web Design and Redux.

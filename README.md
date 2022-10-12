@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Design and Redux.
 - 🤔 Design System.
 - 💬 Ask me about Anything 
-- 📫 How to reach me:bhanu.singh1078@gmail.com 
+- 📫 How to reach me:bhanusinghwebdev@gmail.com 
 
 
  
